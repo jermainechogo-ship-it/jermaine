@@ -1,0 +1,47 @@
+h1{
+    letter-spacing: 10px;
+    font-size: 40px;
+    text-align: center;
+    word-spacing: 12px;
+    color: rgba(0, 0, 0, 0.829);
+    font-variant: small-caps;
+}
+body{
+   background-color: chocolate;
+}
+
+p{
+   color: rgb(0, 0, 0);
+   text-align: center;
+   font-size: 15px;
+}
+
+ h2{
+    color: aliceblue;
+    background-color: brown;
+    /* border */
+    border-top: 3px black double;
+    border-right: 4px yellow solid;
+    border-bottom: 5px green solid;
+    border-left: 2px black solid;
+
+    /* margin: ; */
+    margin-top: 40ox;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+
+    /* padding: ; */
+    padding-top: 20px;
+    padding-right: 30;
+    padding-bottom: 40;
+    padding-left: 10px;
+ }
+
+ a{
+    padding: 10px;
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    text-decoration: underline;
+ }
